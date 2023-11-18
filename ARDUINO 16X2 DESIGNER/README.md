@@ -1,4 +1,4 @@
-# \~\`* [custom glyph generator](https://nonnullish.github.io/screenduino/) *\`\~
+# \~\`* *\`\~
 ### make LCD custom characters using the createChar() function from the LiquidCrystal library
 
 - choose the size of your screen
